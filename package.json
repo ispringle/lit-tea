@@ -1,0 +1,20 @@
+{
+  "name": "lit-tea",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/tear.js",
+  "types": "dist/tea.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/tea.js",
+      "types": "./dist/tea.d.ts"
+    }
+  },
+  "peerDependencies": {
+    "lit": ">=3"
+  },
+  "devDependencies": {
+    "lit": "^3.0.0",
+    "typescript": "^5.0.0"
+  }
+}
