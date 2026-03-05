@@ -1,5 +1,5 @@
 {
-  "name": "lit-tea",
+  "name": "@ispringle/lit-tea",
   "version": "0.1.0",
   "type": "module",
   "main": "dist/tear.js",
