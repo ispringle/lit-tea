@@ -5,6 +5,8 @@
     "moduleResolution": "bundler",
     "declaration": true,
     "outDir": "dist",
+    "rootDir": ".",
     "strict": true
-  }
+  },
+  "include": ["tea.ts"]
 }
